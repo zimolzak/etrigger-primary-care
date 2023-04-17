@@ -9,19 +9,20 @@ most pertinent to the primary care setting.
 
 # Missed test results
 
-1.  Colon cancer (FOBT, FIT, iron deficiency anemia)[^cgh]
-2.  Lung cancer (imaging findings)[^lung],[^lung2]
-3.  TSH[^tsh]
-4.  HCC (alpha-fetoprotein)[^cgh]
-5.  Bladder cancer (hematuria)[^bladder]
-6.  Mammography[^mammogram]
-7.  PSA[^psa]
+- Colon cancer (FOBT, FIT, iron deficiency anemia) [^cgh]
+- Lung cancer (imaging findings) [^lung],[^lung2]
+- TSH [^tsh]
+- HCC (alpha-fetoprotein) [^cgh]
+- Bladder cancer (hematuria) [^bladder]
+- Mammography [^mammogram]
+- PSA [^psa]
 
 # Care Escalation
 
-8. Care escalation[^escal]
+- Care escalation (primary care visit $\to$ hospitalization, or ER,
+or urgent care, or unplanned primary care) [^escal]
 
-10. Telemedicine and re-visit (currently ongoing)
+- Telemedicine and re-visit/escalation (currently ongoing)
 
 
 
@@ -29,7 +30,7 @@ most pertinent to the primary care setting.
 [^escal]: Singh H, Giardina TD, Forjuoh SN, *et al*. Electronic health
 record-based surveillance of diagnostic errors in primary care. *BMJ
 Qual Saf*. 2012;21(2):93. doi:10.1136/bmjqs-2011-000304
-  
+
 [^psa]: Murphy, D. R. *et al.* Electronic health record-based triggers
 to detect potential delays in cancer diagnosis. *BMJ Qual Saf* **23**,
 8 (2014).
