@@ -1,4 +1,4 @@
-files = etriggers.pdf etriggers.docx
+files = e-triggers-primary-care.pdf e-triggers-primary-care.docx
 
 .PHONY: all clean
 
