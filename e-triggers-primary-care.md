@@ -1,6 +1,6 @@
 % E-triggers for VA Primary Care
-% Andrew Zimolzak, Li Wei, Usman Mir, Ashley Meyer.
-% 2023-04-17
+% Andrew Zimolzak, Li Wei, Usman Mir, Ashley Meyer
+% 2023-05-03
 
 For the PSCI grant (VA Houston partnering with VA Greater Los Angeles
 and VA Puget Sound), here is a list of electronic triggers previously
@@ -24,8 +24,16 @@ or urgent care, or unplanned primary care) [^escal]
 
 - Telemedicine and re-visit/escalation (currently ongoing)
 
+# Missed diagnosis (lookback)
+
+- Spinal epidural abscess [^sea]
 
 
+
+
+[^sea]: Bhise V, Meyer AND, Singh H, *et al*. Errors in Diagnosis of
+Spinal Epidural Abscesses in the Era of Electronic Health Records. *Am
+J Medicine*. 2017;130(8):975--981.
 
 [^escal]: Singh *et al*. Electronic health
 record-based surveillance of diagnostic errors in primary care. *BMJ
