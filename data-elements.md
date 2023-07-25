@@ -6,6 +6,30 @@
 
 (FOBT, FIT, iron deficiency anemia) [^cgh]
 
+- labs
+    - hemoglobin
+    - mcv
+    - ferritin
+    - fobt
+    - fit
+- demographics
+    - DOB to calculate age
+    - death index
+- visit diagnoses
+    - colon cancer
+    - all other cancers
+    - UGIB, PUD
+    - menorrhagia, hematur, epistax, hemopt, *etc.*
+    - pregnancy
+    - thalassemia
+- procedure codes
+    - colectomy
+    - colonoscopy
+- visit types (stop codes)
+    - palliative
+    - gastroenterology
+- orders
+    - consult (palliative)
 
 
 # Lung cancer
