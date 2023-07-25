@@ -1,5 +1,5 @@
 files = e-triggers-primary-care.pdf e-triggers-primary-care.docx
-files += data-elements.pdf
+files += data-elements.pdf data-elements.docx
 
 .PHONY: all clean
 
