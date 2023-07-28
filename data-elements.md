@@ -23,7 +23,7 @@ pulmonology, ER, inpatient, urgent care, oncology, urology)
 
 - Orders (and dates, including consult orders, medications)
 
-- Imaging (and dates) with abnormality flags. (*E.g.,* cxr, chest CT,
+- Imaging (and dates) with abnormality flags. (*E.g.,* CXR, chest CT,
 PET, ultrasound, MRI, mammography)
 
 - Outpatient medication fills (with dates)
